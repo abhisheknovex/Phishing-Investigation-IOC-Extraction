@@ -1,0 +1,14 @@
+From: "IT Helpdesk" <helpdesk@example.invalid>
+To: analyst@example.invalid
+Date: Sun, 11 Oct 2026 09:30:00 +0530
+Subject: Urgent: Password expires today
+Message-ID: <training-001@example.invalid>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="UTF-8"
+
+Your mailbox will be disabled today. Confirm your password immediately:
+hxxp://login-example.invalid/verify?user=employee
+
+Please open the link and enter your corporate username and password.
+
+This is a synthetic training email. The .invalid domain and defanged URL are intentionally non-operational.
